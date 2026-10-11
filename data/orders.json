@@ -1,0 +1,248 @@
+[
+  {
+    "order_id": "GRC-29074",
+    "timestamp": "11 Oct 2026, 09:29 PM",
+    "epoch_time": 1791734367,
+    "customer": {
+      "name": "Vikram R",
+      "mobile": "9600869486",
+      "address": "56, Subramani Iyyar Street, Vasanthapuram",
+      "city": "Vellore",
+      "state": "Tamil Nadu",
+      "pincode": "632001"
+    },
+    "delivery_option": "Standard Delivery (Estimated: 30–45 minutes)",
+    "estimated_delivery": "30–45 minutes",
+    "payment_method": "UPI",
+    "payment_status": "Paid (Simulated Online)",
+    "order_status": "Confirmed",
+    "items": [
+      {
+        "id": "prod_dry_1",
+        "name": "Full Cream Fresh Milk",
+        "category": "Dairy",
+        "unit": "500 ml",
+        "price": 33.0,
+        "original_price": 35.0,
+        "quantity": 3,
+        "line_total": 99.0,
+        "image": "assets\\products\\prod_dry_1.png"
+      },
+      {
+        "id": "prod_stp_1",
+        "name": "Premium Basmati Rice",
+        "category": "Staples",
+        "unit": "1 kg",
+        "price": 130.0,
+        "original_price": 160.0,
+        "quantity": 2,
+        "line_total": 260.0,
+        "image": "assets\\products\\prod_stp_1.png"
+      },
+      {
+        "id": "prod_dry_3",
+        "name": "Salted Table Butter",
+        "category": "Dairy",
+        "unit": "100 g",
+        "price": 58.0,
+        "original_price": 62.0,
+        "quantity": 1,
+        "line_total": 58.0,
+        "image": "assets\\products\\prod_dry_3.png"
+      },
+      {
+        "id": "prod_snk_4",
+        "name": "Crispy Spicy Aloo Bhujia",
+        "category": "Snacks",
+        "unit": "200 g",
+        "price": 55.0,
+        "original_price": 65.0,
+        "quantity": 1,
+        "line_total": 55.0,
+        "image": "assets\\products\\prod_snk_4.png"
+      },
+      {
+        "id": "prod_snk_3",
+        "name": "70% Dark Chocolate Bar",
+        "category": "Snacks",
+        "unit": "100 g",
+        "price": 99.0,
+        "original_price": 125.0,
+        "quantity": 2,
+        "line_total": 198.0,
+        "image": "assets\\products\\prod_snk_3.png"
+      }
+    ],
+    "subtotal": 670.0,
+    "discount": 0.0,
+    "product_savings": 132.0,
+    "delivery_charge": 0.0,
+    "final_total": 670.0
+  },
+  {
+    "order_id": "GRC-49842",
+    "timestamp": "11 Oct 2026, 09:21 PM",
+    "epoch_time": 1791733880,
+    "customer": {
+      "name": "Aarav Gupta",
+      "mobile": "9876543210",
+      "address": "Flat 101, MG Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "delivery_option": "Express Delivery (Estimated: 15–25 minutes)",
+    "estimated_delivery": "15–25 minutes",
+    "payment_method": "UPI",
+    "payment_status": "Paid (Simulated Online)",
+    "order_status": "Confirmed",
+    "items": [
+      {
+        "id": "prod_dry_1",
+        "name": "Full Cream Fresh Milk",
+        "category": "Dairy",
+        "unit": "500 ml",
+        "price": 33.0,
+        "original_price": 35.0,
+        "quantity": 2,
+        "line_total": 66.0,
+        "image": "assets\\products\\prod_dry_1.png"
+      }
+    ],
+    "subtotal": 66.0,
+    "discount": 0.0,
+    "product_savings": 4.0,
+    "delivery_charge": 20.0,
+    "final_total": 86.0
+  },
+  {
+    "order_id": "GRC-81974",
+    "timestamp": "11 Oct 2026, 09:20 PM",
+    "epoch_time": 1791733825,
+    "customer": {
+      "name": "Aarav Gupta",
+      "mobile": "9876543210",
+      "address": "Flat 101, MG Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "delivery_option": "Express Delivery (Estimated: 15–25 minutes)",
+    "estimated_delivery": "15–25 minutes",
+    "payment_method": "UPI",
+    "payment_status": "Paid (Simulated Online)",
+    "order_status": "Confirmed",
+    "items": [
+      {
+        "id": "prod_dry_1",
+        "name": "Full Cream Fresh Milk",
+        "category": "Dairy",
+        "unit": "500 ml",
+        "price": 33.0,
+        "original_price": 35.0,
+        "quantity": 2,
+        "line_total": 66.0,
+        "image": "assets\\products\\prod_dry_1.png"
+      }
+    ],
+    "subtotal": 66.0,
+    "discount": 0.0,
+    "product_savings": 4.0,
+    "delivery_charge": 20.0,
+    "final_total": 86.0
+  },
+  {
+    "order_id": "GRC-20760",
+    "timestamp": "11 Oct 2026, 09:15 PM",
+    "epoch_time": 1791733526,
+    "customer": {
+      "name": "Aarav Gupta",
+      "mobile": "9876543210",
+      "address": "Flat 101, MG Road",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560001"
+    },
+    "delivery_option": "Express Delivery (Estimated: 15–25 minutes)",
+    "estimated_delivery": "15–25 minutes",
+    "payment_method": "UPI",
+    "payment_status": "Paid (Simulated Online)",
+    "order_status": "Confirmed",
+    "items": [
+      {
+        "id": "prod_dry_1",
+        "name": "Full Cream Fresh Milk",
+        "category": "Dairy",
+        "unit": "500 ml",
+        "price": 33.0,
+        "original_price": 35.0,
+        "quantity": 2,
+        "line_total": 66.0,
+        "image": "assets\\products\\prod_dry_1.png"
+      }
+    ],
+    "subtotal": 66.0,
+    "discount": 0.0,
+    "product_savings": 4.0,
+    "delivery_charge": 20.0,
+    "final_total": 86.0
+  },
+  {
+    "order_id": "GRC-81894",
+    "timestamp": "11 Oct 2026, 09:09 PM",
+    "epoch_time": 1791733198,
+    "customer": {
+      "name": "Priya Nair",
+      "mobile": "9876543210",
+      "address": "Flat 304, Palm Grove Apartments",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560103"
+    },
+    "delivery_option": "Express Delivery (Estimated: 15-25 minutes)",
+    "estimated_delivery": "15–25 minutes",
+    "payment_method": "UPI",
+    "payment_status": "Paid (Simulated Online)",
+    "order_status": "Confirmed",
+    "items": [
+      {
+        "id": "prod_dry_1",
+        "name": "Full Cream Fresh Milk",
+        "category": "Dairy",
+        "unit": "500 ml",
+        "price": 33.0,
+        "original_price": 35.0,
+        "quantity": 3,
+        "line_total": 99.0,
+        "image": "assets\\products\\prod_dry_1.png"
+      },
+      {
+        "id": "prod_bky_1",
+        "name": "Whole Wheat Brown Bread",
+        "category": "Bakery",
+        "unit": "400 g",
+        "price": 45.0,
+        "original_price": 50.0,
+        "quantity": 1,
+        "line_total": 45.0,
+        "image": "assets\\products\\prod_bky_1.png"
+      },
+      {
+        "id": "prod_stp_1",
+        "name": "Premium Basmati Rice",
+        "category": "Staples",
+        "unit": "1 kg",
+        "price": 130.0,
+        "original_price": 160.0,
+        "quantity": 3,
+        "line_total": 390.0,
+        "image": "assets\\products\\prod_stp_1.png"
+      }
+    ],
+    "subtotal": 534.0,
+    "discount": 50.0,
+    "product_savings": 101.0,
+    "delivery_charge": 0.0,
+    "final_total": 484.0
+  }
+]
